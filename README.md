@@ -8,5 +8,5 @@
 ---
 
 <div align="center">
-  ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+  
 </div>
